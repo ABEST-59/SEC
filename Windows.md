@@ -1,3 +1,9 @@
+Disable protocole NTLM 
+  - Info : https://www.it-connect.fr/comment-desactiver-le-protocole-ntlm-dans-un-domaine-active-directory/
+
+Activer DNSSEC
+  - Info : https://www.it-connect.fr/securite-du-dns-activer-dnssec-sur-une-zone-dns-active-directory/
+
 Disable protocole mDNS
   - Info : https://www.it-connect.fr/active-directory-desactiver-le-protocole-mdns-windows/
       - GPO:
