@@ -1,6 +1,7 @@
 - Outils pour auditer l'AD
   -   ADRecon : https://github.com/adrecon/ADRecon / https://www.it-connect.fr/decouverte-reconnaissance-active-directory-adrecon/
   -   PingCastle
+  -   Purple Knight: https://www.semperis.com/fr/purple-knight/
 
 - Outils pour renforcer AD + Azure AD365
   - HardenAD
