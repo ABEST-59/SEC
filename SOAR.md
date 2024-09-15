@@ -4,5 +4,5 @@ Par exemple, si un utilisateur tente de se connecter à son ordinateur trop de f
 Ensuite, les analystes se réfèrent à un playbook pour prendre les mesures nécessaires pour résoudre le problème.
 Listes des outils:
   - Elastic SOAR: https://www.elastic.co/fr/security/soar
-  - Logpoint SOAR
+  - Logpoint SOAR: https://docs.logpoint.com/docs/getting-started-with-soar/en/latest/
   
