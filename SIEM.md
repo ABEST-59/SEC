@@ -3,3 +3,4 @@ Liste de SIEM:
   - Splunk
   - Chronicle Google
   - LogPoint
+  - Wazuh
